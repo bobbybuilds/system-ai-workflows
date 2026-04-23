@@ -1,19 +1,13 @@
+# Assets
 
-# Step 5 — Put these in the nested README files
-
-## `docs/README.md`
-
-```markdown
-# Docs
-
-This folder contains core documentation for the System AI Workflows repository.
+This folder contains supporting files and reference materials for the repository.
 
 ## Use this folder for:
-- setup documentation
-- standards
-- naming conventions
-- operating procedures
-- repository instructions
+- diagrams
+- screenshots
+- reference visuals
+- supporting downloads
+- non-core supplementary files
 
 ## Goal
-Keep foundational documentation centralized and easy to reference.
+Keep support material organized without cluttering core workflow folders.
